@@ -1,0 +1,11 @@
+{
+    "typeAcquisition": {
+      "include": ["intro.js","jquery", "moment","noUiSlider","knockout", "quill@1.3.6", "datatables.net", "sweetalert", "select2", "validator","../modules/httpRequestCaller/httpcallwrapper"]
+    },
+    "include": [
+          "./../",
+          "https://checkout.razorpay.com/v1/checkout.js",
+          "//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"
+      ]
+  }
+  
